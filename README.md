@@ -22,7 +22,7 @@ $ meteor add rajasegar:compass-mixins
 ```json
 {
   "includePaths": [
-    ".meteor/local/build/programs/server/assets/packages/compass-mixins"
+    ".meteor/local/build/programs/server/assets/packages/rajasegar_compass-mixins"
   ]
 }
 ```
