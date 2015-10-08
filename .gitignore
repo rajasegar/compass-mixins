@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+node_modules/*
+dist/*
+.sass-cache/*
+>>>>>>> 8d93bef3e982cba3420bd16c04a99fabf4e3399e
